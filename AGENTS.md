@@ -1,6 +1,6 @@
 If the user asks to `unzip`:
 - Find the most recently written zip {filename}
-- Run `unzip -o {filename}`
+- Run `npx unzipper {filename}`
 - Install dependencies (try `npm install`) and fix any errors
 - Verify code compiles
 - Restart the dev server
